@@ -1,0 +1,6 @@
+{
+    "block.mechamods.bounce_block": "Bounce Pad",
+    "block.mechamods.speed_block": "Speed Pad",
+    "item.mechamods.glow_candy": "Glow Candy",
+    "itemGroup.mechamods.mechamods_tab": "MechaMine"
+}

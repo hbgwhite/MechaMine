@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SHS",
+        "SSS"
+    ],
+    "key": {
+        "S": { "item": "minecraft:slime_ball" },
+        "H": { "item": "minecraft:honey_block" }
+    },
+    "result": {
+        "item": "mechamods:bounce_block",
+        "count": 4
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "mechamods:block/speed_block" }
+    }
+}
