@@ -1,0 +1,23 @@
+# Ensure consistent line endings across platforms
+* text=auto
+
+# Java source files
+*.java text eol=lf
+
+# Gradle files
+*.gradle text eol=lf
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+
+# JSON and TOML configs
+*.json text eol=lf
+*.toml text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Images — treat as binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
