@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.hbgwhite.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin","CreeperRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

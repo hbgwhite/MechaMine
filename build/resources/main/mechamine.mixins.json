@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.hbgwhite.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin", "CreeperMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
