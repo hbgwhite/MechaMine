@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "mechamine:item/boom_sword"
+    }
+  }
